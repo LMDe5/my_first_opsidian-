@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "logs/gdd-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for gdd-log"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "logs/gdd-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from gdd-log"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "logs/gdd-log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of gdd-log"
             }
           },
           {
@@ -193,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db570275a7feb6d5",
+  "active": "6c84c715a6499355",
   "lastOpenFiles": [
     "README.md",
     "logs/gdd-log.md",
