@@ -194,11 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c84c715a6499355",
+  "active": "bd9e53cc855b7dd0",
   "lastOpenFiles": [
-    "README.md",
-    "logs/gdd-log.md",
     "GDD.md",
+    "logs/gdd-log.md",
+    "Utilities/Templates/LLMLog.md",
+    "DML-AI_gen_2026_1-KB/Информация/00 MOC — Карта базы.md",
+    "README.md",
+    "Utilities/Templates/Untitled",
+    "Utilities/Templates",
+    "Utilities",
     "images/selected/selected.md",
     "images/selected.md",
     "Logs.md",
@@ -210,11 +215,7 @@
     "Новая папка",
     "media/3d",
     "media/Новая папка",
-    "media/video",
-    "media/audio",
-    "media",
     "Welcome/ДЗ/плохое ТЗ - результат ХЗ.md",
-    "DML-AI_gen_2026_1-KB/Информация/00 MOC — Карта базы.md",
     "Welcome/ДЗ/INDEX.MD",
     "Welcome/ДЗ/GDD.MD",
     "Welcome/ДЗ/GDD.md",
@@ -230,7 +231,6 @@
     "DML-AI_gen_2026_1-KB/Информация/05 Чек-лист Midterm & Final.md",
     "DML-AI_gen_2026_1-KB/Информация/04 Шаблоны Obsidian (пакет).md",
     "DML-AI_gen_2026_1-KB/Информация/03 Стандарт структуры проекта.md",
-    "DML-AI_gen_2026_1-KB/Информация/02 Глоссарий.md",
-    "Test.md"
+    "DML-AI_gen_2026_1-KB/Информация/02 Глоссарий.md"
   ]
 }
