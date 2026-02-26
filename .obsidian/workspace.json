@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d81b97394810cacf",
+        "id": "39e2919664b257eb",
         "type": "tabs",
         "children": [
           {
-            "id": "bd9e53cc855b7dd0",
+            "id": "645cd11bfb2a7a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd9e53cc855b7dd0",
+  "active": "645cd11bfb2a7a12",
   "lastOpenFiles": [
+    "Utilities/Templates/LLMLog.md",
     "GDD.md",
     "logs/gdd-log.md",
-    "Utilities/Templates/LLMLog.md",
+    "2026-02-25.md",
+    "DML.md",
+    "Untitled",
     "DML-AI_gen_2026_1-KB/Информация/00 MOC — Карта базы.md",
     "README.md",
     "Utilities/Templates/Untitled",
@@ -214,7 +218,6 @@
     "images",
     "Новая папка",
     "media/3d",
-    "media/Новая папка",
     "Welcome/ДЗ/плохое ТЗ - результат ХЗ.md",
     "Welcome/ДЗ/INDEX.MD",
     "Welcome/ДЗ/GDD.MD",
@@ -229,8 +232,6 @@
     "DML-AI_gen_2026_1-KB/Информация/07 Быстрый просмотр проекта преподавателем.md",
     "DML-AI_gen_2026_1-KB/Информация/06 Рубрика оценивания.md",
     "DML-AI_gen_2026_1-KB/Информация/05 Чек-лист Midterm & Final.md",
-    "DML-AI_gen_2026_1-KB/Информация/04 Шаблоны Obsidian (пакет).md",
-    "DML-AI_gen_2026_1-KB/Информация/03 Стандарт структуры проекта.md",
-    "DML-AI_gen_2026_1-KB/Информация/02 Глоссарий.md"
+    "DML-AI_gen_2026_1-KB/Информация/04 Шаблоны Obsidian (пакет).md"
   ]
 }
