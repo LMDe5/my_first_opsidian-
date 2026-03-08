@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -196,19 +196,23 @@
   },
   "active": "645cd11bfb2a7a12",
   "lastOpenFiles": [
+    "index/📋О чем игра.md",
     "logs/gdd-log.md",
     "GDD.md",
+    "index",
+    "shot-list/Shots.md",
+    "images/selected/selected.md",
+    "shot-list",
+    "README.md",
+    "2026-02-25.md",
     "Utilities/Templates/LLMLog.md",
     "Utilities.md",
-    "2026-02-25.md",
     "DML.md",
     "Untitled",
     "DML-AI_gen_2026_1-KB/Информация/00 MOC — Карта базы.md",
-    "README.md",
     "Utilities/Templates/Untitled",
     "Utilities/Templates",
     "Utilities",
-    "images/selected/selected.md",
     "images/selected.md",
     "Logs.md",
     "DML-AI_gen_2026_1-KB/README.md",
@@ -216,8 +220,6 @@
     "images/Новая папка",
     "images/selected",
     "images",
-    "Новая папка",
-    "media/3d",
     "Welcome/ДЗ/плохое ТЗ - результат ХЗ.md",
     "Welcome/ДЗ/INDEX.MD",
     "Welcome/ДЗ/GDD.MD",
@@ -229,8 +231,6 @@
     "DML-AI_gen_2026_1-KB/Информация/10 Коммуникация и поддержка.md",
     "DML-AI_gen_2026_1-KB/Информация/09 Авторское право и лицензии (памятка).md",
     "DML-AI_gen_2026_1-KB/Информация/08 Политика контента.md",
-    "DML-AI_gen_2026_1-KB/Информация/07 Быстрый просмотр проекта преподавателем.md",
-    "DML-AI_gen_2026_1-KB/Информация/06 Рубрика оценивания.md",
-    "DML-AI_gen_2026_1-KB/Информация/05 Чек-лист Midterm & Final.md"
+    "DML-AI_gen_2026_1-KB/Информация/07 Быстрый просмотр проекта преподавателем.md"
   ]
 }
