@@ -40,5 +40,20 @@
 > 5. **Краткий комментарий** — к сожалению, потратил много токенов, но не получил прям желаемого результата. Горы обхватывали объекты не так, картинка получилась слишком спокойной
 
 > [!ANSWER]- with **Model** 2026-03-27
+![[Стальная крепость.png]]
 
-![[gemini-2.5-flash-image_Modify_the_uploaded_image._The_scene_is_a_grassy_clearing_with_no_trees._Keep_th-0.jpg]]
+## Запись №4: Небесный рубеж
+> [!QUESTION]- User 2026-03-29
+> **Направление**: 
+> локация / объект
+> 
+> **Фиксация**:
+> 1. **Задача генерации** — нарисовать машину игрока в небе в виде планера
+> 2. **Positive prompt** — _Voxel art style, a vehicle in the foreground with an engine mounted on its roof, voxel details preserved. In the background, another jet plane is visible. Generate voxel helicopters, the left one shoots a missle to the car. The second helicopter on the right is slightly modified in design, but still voxel-based. All elements maintain the same voxel aesthetic.
+> 3. **Negative prompt** — равнину, пустыню, действия на земле, плохую погоду
+> 4. **Критерии отбора** — если машина будет представлена в виде планера, 2 вертолета-противники, самолет на заднем плане, все воксельное
+> 5. **Краткий комментарий** — она немного странная из-за обычного двигателя внутреннего сгорания у машины, но не такая безумная, как остальные
+
+> [!ANSWER]- with **Model** 2026-03-29
+> 
+![[небесный рубеж.png]]
