@@ -26,3 +26,19 @@
 
 > [!ANSWER]- with **Nano Banana Pro** 2026-03-23
 ![[первые шаги.png]]
+
+## Запись №3: Стальная крепость
+> [!QUESTION]- User 2026-03-27
+> **Направление**: 
+> локация / ключевой объект
+> 
+> **Фиксация**:
+> 1. **Задача генерации** — два врага напротив машины игрока
+> 2. **Positive prompt** — Modify the uploaded image. The scene is a grassy clearing with no trees. Keep the voxel‑style car in the foreground. Far in front of it, add two enemy armored vehicles (also voxel style), positioned with a large distance between them and the car. In the background, add voxel‑style mountains. The weather is clear and sunny.
+> 3. **Negative prompt** — пустыня, аэродром, лес, плохая погода
+> 4. **Критерии отбора** — будет два врага на относительно дальнем расстоянии
+> 5. **Краткий комментарий** — к сожалению, потратил много токенов, но не получил прям желаемого результата. Горы обхватывали объекты не так, картинка получилась слишком спокойной
+
+> [!ANSWER]- with **Model** 2026-03-27
+
+![[gemini-2.5-flash-image_Modify_the_uploaded_image._The_scene_is_a_grassy_clearing_with_no_trees._Keep_th-0.jpg]]
