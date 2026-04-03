@@ -1,3 +1,4 @@
+## txt2img
 checkpoint = nano_banana_pro_v10.safetensors;
 positive prompt = voxel style, pixel style;
 negative prompt = realism, brocken car;
