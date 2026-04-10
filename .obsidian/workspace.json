@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD.md",
+                "file": "workflows/w05_flux_style_series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDD"
+              "title": "w05_flux_style_series"
             }
           }
         ]
@@ -194,9 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c1ae86f678f7432",
+  "active": "b0271ddf18d8e178",
   "lastOpenFiles": [
+    "workflows/w04_sdxl_txt2img.md",
     "workflows/workfllows-notes.md",
+    "shot-list/Shots.md",
+    "assets/assets-list.md",
+    "style/Style-bibble.md",
+    "GDD.md",
     "images/selected/outputs/Nano Banana/небесный рубеж.png",
     "images/selected/outputs/Nano Banana/первые шаги.png",
     "images/selected/outputs/Nano Banana/Стальная крепость.png",
@@ -211,17 +216,12 @@
     "images/selected/outputs/Nano Banana",
     "logs/gdd-log.md",
     "refs/character.md",
-    "assets/assets-list.md",
     "refs",
-    "shot-list/Shots.md",
     "assets",
     "Utilities/Templates/LLMLog.md",
-    "style/Style-bibble.md",
     "workflows/w05_flux_style_series.md",
     "Style.md",
     "style",
-    "GDD.md",
-    "workflows/w04_sdxl_txt2img.md",
     "workflows/w04_sdxl_txt2img/txt2img.md",
     "workflows/w04_sdxl_txt2img",
     "Utilities/Templates/LLm Prompt-plan.md",
