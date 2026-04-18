@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refs/locations.md",
+                "file": "logs/workfllows-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "locations"
+              "title": "workfllows-notes"
             }
           }
         ]
@@ -196,36 +196,39 @@
   },
   "active": "4b1dc5efad9194b3",
   "lastOpenFiles": [
+    "workflows/w06_multiprompt.md",
+    "images/selected/outputs/Flux1 Dev/gleb/02-w06-gleb-prototype2.png",
+    "images/selected/outputs/Flux1 Dev/gleb/01-w06-gleb-prototype1.png",
+    "images/selected/outputs/Flux1 Dev/gleb/04-w06-gleb-prototype3.png",
+    "images/selected/outputs/Flux1 Dev/maps/мост_.png",
+    "images/selected/outputs/Flux1 Dev/maps/мост смуф.png",
+    "images/selected/outputs/Flux1 Dev/gleb/01-w06-gleb-prototype0.png",
+    "images/selected/outputs/Flux1 Dev/maps/очень странный впп_.png",
+    "images/selected/outputs/Flux1 Dev/gleb/05-w06-gleb-state.png",
+    "images/selected/outputs/Flux1 Dev/gleb/06-w06-gleb-with-accessories.png",
+    "images/selected/outputs/Flux1 Dev/gleb",
+    "images/selected/outputs/Flux1 Dev/maps/почти удавшийся мост.png",
+    "images/selected/outputs/Flux1 Dev/maps",
+    "images/selected/outputs/Flux1 Dev/Без названия.md",
+    "design/contains.md",
+    "refs/locations.md",
     "refs/character.md",
     "logs/workfllows-notes.md",
     "logs/Prompt-plan.md",
     "logs/gdd-log.md",
-    "images/selected/outputs/Nano Banana/Стальная крепость.png",
-    "refs/locations.md",
     "index/📋О чем игра.md",
     "out.md",
-    "images/selected/outputs/Nano Banana/левиафан.png",
     "design/characters.md",
-    "design/contains.md",
     "Без названия",
     "assets/assets-list.md",
     "style/Style-bibble.md",
     "characters/Без названия.md",
     "characters",
     "design",
-    "workflows/w06_multiprompt.md",
     "workflows/w05_flux_style_series.md",
     "workflows/w04_sdxl_txt2img.md",
     "shot-list/Shots.md",
     "GDD.md",
-    "images/selected/outputs/Nano Banana/небесный рубеж.png",
-    "images/selected/outputs/Nano Banana/первые шаги.png",
-    "images/selected/outputs/Flux1 Dev/хрень впп.png",
-    "images/selected/outputs/Flux1 Dev/почти удавшийся мост.png",
-    "images/selected/outputs/Flux1 Dev/очень странный впп_.png",
-    "images/selected/outputs/Flux1 Dev/мост_.png",
-    "images/selected/outputs/Flux1 Dev/мост смуф.png",
-    "images/selected/outputs/Flux1 Dev/левиафан смуф_.png",
     "images/selected/outputs/Flux1 Dev",
     "images/selected/outputs/Nano Banana",
     "refs",
@@ -234,13 +237,10 @@
     "Style.md",
     "style",
     "workflows/w04_sdxl_txt2img/txt2img.md",
-    "workflows/w04_sdxl_txt2img",
     "Utilities/Templates/LLm Prompt-plan.md",
-    "workflows",
     "selected.md",
     "logs/prompt-plan/Без названия.md",
     "workflows/Images.canvas",
-    "images/selected/selected.md",
-    "README.md"
+    "images/selected/selected.md"
   ]
 }
