@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/gdd-log.md",
+                "file": "refs/ip-adapter.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gdd-log"
+              "title": "ip-adapter.md"
             }
           }
         ]
@@ -196,27 +196,32 @@
   },
   "active": "4b1dc5efad9194b3",
   "lastOpenFiles": [
+    "shot-list/Shots.md",
+    "refs/ip-adapter.md.md",
+    "design/contains.md",
+    "logs/workfllows-notes.md",
+    "logs/gdd-log.md",
+    "logs/Prompt-plan.md",
+    "refs/locations.md",
+    "refs/controlnet.md",
+    "refs/character.md",
+    "Utilities/Templates/LLm Prompt-plan.md",
+    "Utilities/Templates/LLMLog.md",
+    "workflows/w08_controlnet_depth_canny.md",
+    "images/outputs/selected/Nano Banana/Depth.jpg",
     "images/outputs/selected/Пояснение.md",
+    "images/outputs/selected/Nano Banana/canny3.jpg",
+    "images/outputs/selected/Nano Banana/canny1.jpg",
+    "images/outputs/selected/Nano Banana/canny2.jpg",
     "images/outputs/selected/Flux1 Dev/maps/мост_.png",
     "images/outputs/selected/Nano Banana/Стальная крепость.png",
     "images/outputs/selected/Nano Banana/первые шаги.png",
     "images/outputs/selected/Flux1 Dev/maps/мост смуф.png",
     "images/outputs/selected/Nano Banana/небесный рубеж.png",
     "images/outputs/selected/Nano Banana/левиафан.png",
-    "images/outputs/selected/Flux1 Dev/maps/хрень впп.png",
-    "images/outputs/selected/Flux1 Dev/maps/почти удавшийся мост.png",
-    "images/outputs/selected/Flux1 Dev/maps/очень странный впп_.png",
-    "images/outputs/selected/Flux1 Dev/maps/левиафан смуф_.png",
-    "refs/controlnet.md",
-    "logs/workfllows-notes.md",
-    "refs/locations.md",
-    "shot-list/Shots.md",
     "workflows/w07_img2img_inpaint_outpaint.md",
-    "logs/gdd-log.md",
-    "design/contains.md",
     "assets/assets-list.md",
     "style/Style-bibble.md",
-    "refs/character.md",
     "Без названия",
     "README.md",
     "images/outputs/selected/Flux1 Dev/w07",
@@ -224,7 +229,6 @@
     "images/outputs/selected/Flux1 Dev/gleb",
     "images/outputs/selected/Flux1 Dev/maps",
     "images/selected/outputs/Flux1 Dev/Без названия.md",
-    "logs/Prompt-plan.md",
     "index/📋О чем игра.md",
     "out.md",
     "design/characters.md",
@@ -238,9 +242,6 @@
     "images/outputs/selected/Nano Banana",
     "refs",
     "assets",
-    "Utilities/Templates/LLMLog.md",
-    "Style.md",
-    "workflows/w04_sdxl_txt2img/txt2img.md",
     "workflows/Images.canvas"
   ]
 }
